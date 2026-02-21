@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.exe
+*.pdf
+*.png
+quarantine/
+screenshot/
+task/
+brain.log
+smart_os_log.txt
